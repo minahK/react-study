@@ -1,9 +1,22 @@
 import logo from './logo.svg';
 import './App.css';
 import Basic01 from './study/Basic01';
+import State01 from './study/State01';
+import Practice01 from './practice/Practice01';
+import State02 from './study/State02';
+import Export01 from './study/Export01';
+
+
+
 
 function App() {
-  return <Basic01/>;
+  //  return <Basic01/>;
+  //  return <State01/>; //useState사용법
+  //  return <Practice01/>;
+  //  return <State02/>;
+  //return <Export01/>;
+  return <State02/>;
+
 
   /*return (
     <div className="App">
